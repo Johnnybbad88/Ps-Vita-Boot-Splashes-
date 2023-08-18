@@ -1,0 +1,9 @@
+STEP 1.
+go to auto plugin go to plugins for vita then install plugins then click on custom boot splash by princess of sleeping																												
+then restart your system    
+
+STEP 2.
+Plug your ps vita into a pc go into the uro folder then go into the tai folder and drag the boot_splash.bin file into the tai folder and replace the old boot_splash.bin folder 
+
+STEP 3.
+go back on the ps vita and back out of everything and hold the power button and power off the ps vita then power it back on ENJOY YOUR NEW BOOT SPLASH THEME!!!! 
